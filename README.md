@@ -8,13 +8,13 @@
 </h1>
 
 <h4 align="center"> 
-	🚧  Discord -UI - Clone ♻️ Concluído 🚀 🚧
+	Discord -UI - Clone 💻 Concluído 🚀 
 </h4>
 
 <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#boom-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#boom-como-executar">Como Executar</a>
 </p>
 
 ## 💻 Sobre o projeto
