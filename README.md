@@ -1,6 +1,6 @@
   
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/badge/typescript-75.7%25-blue">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/typescript-95.3%25-blue">
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-blueviolet">
 </p>
 <h1 align="center">
